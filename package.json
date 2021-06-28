@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ImranAushev/hexlet-git/issues"
   },
-  "homepage": "https://github.com/ImranAushev/hexlet-git#readme"
+  "homepage": "https://github.com/ImranAushev/hexlet-git#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
