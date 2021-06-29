@@ -1,1 +1,2 @@
-# hexlet-gitmy first project
+# hexlet-git
+my first project
